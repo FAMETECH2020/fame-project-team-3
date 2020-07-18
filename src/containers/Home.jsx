@@ -15,7 +15,7 @@ export default class Home extends Component {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Make this House a Home.
+                    FAME Group 3.
           </a>
             </header>
         )
